@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 bc31a8a83e07e25b86e4b9cdeddc91347f6b4ee4 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666365024 -0400	clone: from https://github.com/Exile-CLient/Client-1.8
+bc31a8a83e07e25b86e4b9cdeddc91347f6b4ee4 b3fc306d200f62eae1e75adc9b48b8deb01a6b24 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384134 -0400	commit: That is SO much cleaner
+b3fc306d200f62eae1e75adc9b48b8deb01a6b24 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384259 -0400	commit: Update README.md
+a459ea0f73f478a14107ea5c432fc016bddf3706 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384339 -0400	checkout: moving from main to master
+a459ea0f73f478a14107ea5c432fc016bddf3706 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384342 -0400	checkout: moving from master to dev
+a459ea0f73f478a14107ea5c432fc016bddf3706 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384353 -0400	checkout: moving from dev to update/readme
+a459ea0f73f478a14107ea5c432fc016bddf3706 7b3f80f689a3e5884cf9815db92e82e74a058267 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384354 -0400	commit: Update README.md
+7b3f80f689a3e5884cf9815db92e82e74a058267 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384385 -0400	checkout: moving from update/readme to master
+a459ea0f73f478a14107ea5c432fc016bddf3706 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384387 -0400	checkout: moving from master to dev
+a459ea0f73f478a14107ea5c432fc016bddf3706 a459ea0f73f478a14107ea5c432fc016bddf3706 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384410 -0400	checkout: moving from dev to beta
+a459ea0f73f478a14107ea5c432fc016bddf3706 dcfcdd96b987be734cded990fdecf20a345b3a62 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666384414 -0400	pull --ff --recurse-submodules --progress origin: Fast-forward
+dcfcdd96b987be734cded990fdecf20a345b3a62 bb60cb14621c959d7024325bca82a75b0d9bcbd5 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666391196 -0400	checkout: moving from beta to dev
+bb60cb14621c959d7024325bca82a75b0d9bcbd5 bb60cb14621c959d7024325bca82a75b0d9bcbd5 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666391227 -0400	checkout: moving from dev to feature/mainmenu
+bb60cb14621c959d7024325bca82a75b0d9bcbd5 87868e5faca69aadccad50c55c2cc2c7e610cc88 Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666391234 -0400	commit: basic main menu
+87868e5faca69aadccad50c55c2cc2c7e610cc88 c728016e3c9c11db2101396f9eff8a555855844f Noxiuam <96212795+Noxiuam@users.noreply.github.com> 1666392150 -0400	commit: fix font issue
